@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\agdjg\\OneDrive\\デスクトップ\\myLearningStudio\\javascript_sample"
+		},
+		{
+			"path": "..\\dic_cafe"
+		},
+		{
+			"path": "."
+		}
+	],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "dic_cafe"
+  }
+}
